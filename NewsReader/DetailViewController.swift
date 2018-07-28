@@ -6,7 +6,7 @@
 //  Copyright © 2018年 阿部敦忠. All rights reserved.
 //
 
-import UKkit
+import UIKit
 import WebKit
 
 class DetailViewController : UIViewController{
